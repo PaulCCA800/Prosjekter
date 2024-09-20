@@ -1,2 +1,2 @@
 # Prosjekter
-A compilation of somewhat random projects.
+Minesweeper implemented in C++.
